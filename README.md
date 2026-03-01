@@ -136,12 +136,6 @@ A **cross-platform software distribution** application engineered to reduce appl
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AadityaChaturvedy&show_icons=true&theme=nord&hide_border=true&bg_color=0d1117&title_color=88c0d0&icon_color=88c0d0&text_color=c0caf5" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaChaturvedy&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&title_color=88c0d0&text_color=c0caf5" height="160"/>
-
-<br/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AadityaChaturvedy&theme=nord&hide_border=true&background=0d1117&stroke=88c0d0&ring=88c0d0&fire=ff9e64&currStreakLabel=88c0d0" height="150"/>
 
 </div>
