@@ -52,11 +52,10 @@ I believe the future of AI isn't just about scaling up in the cloud — it's abo
 <tr>
 <td width="50%">
  
-### 🧠 [EdgeVLM](https://github.com/AadityaChaturvedy/Reflexive-Radio-Adapter)
+### 🧠 [Reflexive-Radio-Adapter](https://github.com/AadityaChaturvedy/Reflexive-Radio-Adapter)
  
-A **4-bit quantized Vision-Language Model** achieving robust multimodal reasoning at <500MB memory footprint. Optimized for edge deployment with QLoRA fine-tuning, ONNX export, and real-time inference benchmarks on resource-constrained hardware. Demonstrates that complex VLMs can run locally without cloud dependencies.
- 
-`Python` · `Model Compression` · `QLoRA` · `ONNX` · `Edge Inference`
+Official repository for the paper "Reflexive-Radio-Adapter: Ultra-Low-Resource Joint Architecture for Chest X-Ray Report Generation and Clinical Classification." This repo contains the code to train a joint vision-language model (BioViL-T + Q-Former + 4-bit Gemma-2B) on just 10,000 MIMIC-CXR studies using a single consumer-grade GPU.
+
 </td>
 <td width="50%">
  
